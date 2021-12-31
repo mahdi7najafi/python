@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <name>mahdi</name>
+    <email>mahdi@gmail.com</email>
+    <password>Test@123</password>
+    <gender>1</gender>
+  </row>
+ <row>
+    <name>bayat</name>
+    <email>bayat@gmail.com</email>
+    <password>byt@123</password>
+    <gender>0</gender>
+  </row>
+  <row>
+    <name>john</name>
+    <email>john@gmail.com</email>
+    <password>jhn@123</password>
+    <gender>1</gender>
+  </row>
+  <row>
+    <name>thomas</name>
+    <email>thomas@gmail.com</email>
+    <password>tms@123</password>
+    <gender>1</gender>
+  </row>
+  <row>
+    <name>Mary</name>
+    <email>marry@gmail.com</email>
+    <password>mry@123</password>
+    <gender>0</gender>
+  </row>
+</root>
